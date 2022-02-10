@@ -3,8 +3,10 @@
 ![main](https://user-images.githubusercontent.com/95897233/153393179-d993df18-89ee-44a2-aa7c-22c7c29e0b4e.JPG)
 
 
-<h6>ㅤ  
- 
+<h6>ㅤ
+
+
+
 ---
 
 <h3>🌿 1. 프로젝트 개요</h3>
@@ -90,5 +92,23 @@
 <h6>ㅤ
 
 --- 
-<h3>🌿 4. </h3>  
- 
+<h3>💾 4. 프로젝트 파일 </h3>
+
+<div align="center"/>
+<a href="https://github.com/helloppiok/SsingSsingMart/files/8041949/4.docx"><img src="https://img.shields.io/badge/기획서-EB482C?style=plastic;logoColor=white" style="max-width: 100%;" height= "30"></a>  <a href="https://github.com/helloppiok/SsingSsingMart/files/8042019/4.docx"><img src="https://img.shields.io/badge/요구분석서-F58E1C?style=plastic;logoColor=white" style="max-width: 100%;" height= "30"></a>   <a href="https://user-images.githubusercontent.com/95897233/153436372-53f5c8cf-3dc6-444a-94aa-920061e4006f.jpg"><img src="https://img.shields.io/badge/순서도-22B14C?style=plastic;logoColor=white" style="max-width: 100%;" height= "30"></a>  <a href="https://github.com/helloppiok/SsingSsingMart/files/8042060/default.pptx"><img src="https://img.shields.io/badge/화면설계-026DE5?style=plastic;logoColor=white" style="max-width: 100%;" height= "30"></a>   <a href=" https://github.com/helloppiok/SsingSsingMart/files/8042106/5.zip"><img src="https://img.shields.io/badge/데이터 파일-7A297B?style=plastic;logoColor=white" style="max-width: 100%;" height= "30"></a>   <a href=" https://github.com/helloppiok/SsingSsingMart/files/8042121/ppt.4.pptx"><img src="https://img.shields.io/badge/PPT-000000?style=plastic;logoColor=white" style="max-width: 100%;" height= "30"></a> 
+<h6>ㅤ
+
+---
+
+<h3>🎈 프로젝트를 마치며 </h3>
+
+```
+처음하는 프로젝트라서 초반에 실수도 많이 하고 시간 소요도 많이했다. 그러나 경험이 있는 조원들의 도움을 받고
+함께 머리를 맞대며 에러를 해결할 수 있었고 에러가 해결되는 기쁨도 맞볼 수 있었다. 기능 구현이 처음부터
+쉽게 진행되었던 것은 아니다. 당시엔 많은 고민이 있었고 구글링하고 주변의 도움을 받아서 해결해나갔다.
+이런 소통의 과정이 재밌었으며 한편으로는 소통의 중요성을 깨닫기도했다.
+지금시점에서 고생해서 만든 코드를 보면 왜 고생했는지 허무(?)하지만 이런 과정이 있었기에 이런 감정도
+문제를 해결할 수 있는 눈도 가질 수 있는 것이라 생각하며 한번 더 화이팅한다😎
+```
+
+<h6>ㅤ
