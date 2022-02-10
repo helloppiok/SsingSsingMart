@@ -22,6 +22,7 @@
 <h3>🌿 2. 개발환경</h3>  
 
 - 프로젝트 기간 : 2021.10.21 - 2021.11.05  
+- 프로젝트 인원 : 6인
 - 개발 플랫폼 &nbsp;&nbsp;&nbsp;&nbsp;: Windows 10  
 - 개발 툴 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Eclipse IDE
 - 사용 언어 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: JAVA
