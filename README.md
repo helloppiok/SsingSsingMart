@@ -1,2 +1,2 @@
-# SsingSsingMart
-Java Console
+# 🌿씽씽마트
+씽씽마트에 오신걸 환영합니다!
