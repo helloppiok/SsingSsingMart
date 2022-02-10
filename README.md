@@ -1,9 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=6B9F38&height=150&section=header&text=🥑씽씽마트🥑%20&fontSize=90&fontColor=FFFFFF&fontAlignY=57&animation=twinkling)
+
 ![main](https://user-images.githubusercontent.com/95897233/153393179-d993df18-89ee-44a2-aa7c-22c7c29e0b4e.JPG)
 
----  
+
+<h6>ㅤ  
+ 
+---
 
 <h3>🌿 1. 프로젝트 개요</h3>
-
 
 ``` 
  증가하는 온라인 상거래 및 쇼핑 거래액은 코로나 발병 이후로 더 큰 증가 추세를 보이고 있습니다. 
@@ -52,7 +56,6 @@
 아이디와 비밀번호 자리에 0을 입력하면 초기화면으로 돌아갑니다.
 ```  
 <h6>ㅤ
-<h6>ㅤ
 
 <h5>1-2. 로그인 실패</h5>
  
@@ -61,8 +64,6 @@
 로그인 실패시 실패 원인에 대한 안내 메시지가 출력되고 재입력을 받습니다.
 ```
 
-
-<h6>ㅤ
 <h6>ㅤ
 <div align="center">▫&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;▫</div>  
 <h6>ㅤ
@@ -75,7 +76,6 @@
 올바른 정보를 입력하면 회원가입이 완료되고 해당 데이터가 저장됩니다. 
 가입 후 입력한 정보로 로그인을 할 수 있습니다. 
 ```  
-<h6>ㅤ
 <h6>ㅤ
 
 <h5>2-2. 회원가입 실패</h5>
@@ -90,3 +90,5 @@
 <h6>ㅤ
 
 --- 
+<h3>🌿 4. </h3>  
+ 
